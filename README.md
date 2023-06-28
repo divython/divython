@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/darthdiv" target="blank"><img src="https://img.shields.io/twitter/follow/darthdiv?logo=twitter&style=for-the-badge" alt="darthdiv" /></a> </p>
 
-- 🌱 I’m currently learning **Android,Kotlin**
+- 🌱 I’m currently learning **Android,Kotlin,Flutter**
 
 - 👨‍💻 All of my projects are available at [thedivyanshuportfolio.netlify.app](thedivyanshuportfolio.netlify.app)
 
